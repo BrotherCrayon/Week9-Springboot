@@ -1,0 +1,51 @@
+@import url("https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css");
+
+body{
+  background-color: rgb(245, 245, 245);
+  color: #282c34;
+}
+
+.navbar {
+  background-color: #282c34;
+  color: seagreen;
+  padding: 2rem;
+  font-size: 22pt
+}
+
+.btn {
+  margin-right: 1rem;
+  border: 1px solid seagreen;
+  color: seagreen;
+}
+.jumbotron {
+  /* border: solid 1px seagreen; */
+  border-radius: 0rem;
+  background: #c7c7c7;
+  box-shadow: 1px 2px 5px #434547;
+}
+.btn-danger{
+  color: aliceblue;
+  border: 1px solid #282c34;
+}
+
+.page-footer{
+  background-color: #282c34;
+  color: seagreen;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
+
+.input:hover{
+  border: 1px solid seagreen;
+  box-shadow: 0px 1px seagreen;
+
+}
+
+.card {
+  width: 50%;
+  padding: 3%;
+  border: solid 1px seagreen;
+  box-shadow: 1px 3px 1px #5c5c5c;
+  margin-bottom: 30px;
+}

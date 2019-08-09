@@ -1,0 +1,4 @@
+com\qa\entity\Account.class
+com\qa\controller\SbfController.class
+com\qa\repo\AccountRepo.class
+com\qa\Application.class
